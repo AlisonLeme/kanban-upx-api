@@ -5,6 +5,8 @@ const Home = () => {
       <ul>
         <li>
           <p>Get - Todos os produtos</p>
+        </li>
+        <li>
           <p>Post - Inserir produtos</p>
         </li>
       </ul>
