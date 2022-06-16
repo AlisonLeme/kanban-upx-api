@@ -1,4 +1,4 @@
-const tenpo = (req, res) => {
+const tempo = (req, res) => {
   const dynamicDate = new Date();
 
   res.json({
